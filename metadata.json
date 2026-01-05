@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Betway AI Predictor Pro",
+  "description": "An advanced AI-powered sports prediction dashboard that leverages Gemini for real-time match analysis, probability forecasting, and deep statistical insights specifically designed for the Betway ecosystem.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
